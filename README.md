@@ -1,4 +1,4 @@
-# leinclojure
+# learnclojure
 
 
 ## Installation
