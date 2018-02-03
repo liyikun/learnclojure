@@ -25,3 +25,5 @@
   (reduce * (repeat n x)))
 
 (power 2 4)
+
+(+ (bigint Long/MAX_VALUE) 10)
